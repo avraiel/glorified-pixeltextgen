@@ -1,6 +1,2 @@
 # glorified-pixeltextgen
- A glorified (by myself) pixel text generator. It generates pixel text from a string input. I made this 3 years ago. The code is kind of inefficient and can be improved on.
-
-# How To Run
- 1. Clone/download the repository.
- 2. Run run.exe
+ It's a really awful text generator that I made over the summer back in 2016. Put text and it generates the text into bigger pixel art.
